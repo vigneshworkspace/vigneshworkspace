@@ -4,8 +4,14 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsvignesh_43)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-sist/)
+<p>
+  <a href="https://instagram.com/itsvignesh_43" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vignesh-sist/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 
 # 💻 Tech Stack:
